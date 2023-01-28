@@ -19826,19 +19826,19 @@ section.ec-instagram-section {
   border-radius: 50px;
 }
 .ec-main-slider .slide-1 {
-  background-image: url("../images/main-slider-banner/20.jpg");
+  background-image: url("../images/main-slider-banner/1.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .ec-main-slider .slide-2 {
-  background-image: url("../images/main-slider-banner/21.jpg");
+  background-image: url("../images/main-slider-banner/2.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .ec-main-slider .slide-3 {
-  background-image: url("../images/main-slider-banner/22.jpg");
+  background-image: url("../images/main-slider-banner/3.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -20083,10 +20083,10 @@ section.ec-instagram-section {
   margin-right: 4px;
 }
 .filter__label:nth-child(1):before {
-  content: "$";
+  content: "RM";
 }
 .filter__label:nth-child(3):before {
-  content: "$";
+  content: "RM";
 }
 
 .filter__input {
